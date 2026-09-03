@@ -1,5 +1,5 @@
 <header class="navbar">
-    <div class="navbar-brand">🎸 Inventaris Toko Musik</div>
+    <div class="navbar-brand">Inventaris Toko Musik</div>
     <nav class="navbar-menu">
         <a href="/inventaris-toko-musik/dashboard.php">Dashboard</a>
         <a href="/inventaris-toko-musik/kategori/index.php">Kategori</a>
